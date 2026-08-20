@@ -1,4 +1,15 @@
 
-title: warmsaft's blog
+
+title: warmsaft
 description: This is where I share cool stuff 
 author: warmsaft
+
+defaults:
+  -
+    scope:
+      path: "projects"
+      type: "pages"
+    values:
+      layout: "project"
+      author: warmsaft
+      category: "project"
