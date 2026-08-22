@@ -1,4 +1,1 @@
----
-  bgcolor = black
-  text = red
----
+
